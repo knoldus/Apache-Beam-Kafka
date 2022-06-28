@@ -8,7 +8,7 @@ https://kafka.apache.org/quickstart
 
 Start Kafka and Zookeeper from your local with following command given in above instruction
 Run your Application 
-Open postman to hit the API.
+Open postman to hit the API.</br>
 API url is in controller package
 http://localhost:8080/kafka/producesMessage
 localhost:8080/kafka/user
